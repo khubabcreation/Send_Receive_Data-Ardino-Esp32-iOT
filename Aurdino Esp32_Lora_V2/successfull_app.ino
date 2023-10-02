@@ -1,3 +1,6 @@
+/// use the firebase esp32 version of mobizet and the version should be 3.12.1 keep  in mind other wise it through the error .
+
+
 #include <heltec.h>
 #include <Arduino.h>
 #if defined(ESP32) || defined(PICO_RP2040)
